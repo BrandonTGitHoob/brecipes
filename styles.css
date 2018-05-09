@@ -1,0 +1,82 @@
+ table, th, td {text-align: center; border: 2px solid white;}
+    th, td {padding: 10px}
+    
+    .button {
+    background-color: red; /* Green */
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: fantasy
+}
+
+.button1 {
+    background-color: lightcoral; 
+    color: black; 
+    border: 2px solid pink;
+}
+
+.button1:hover {
+    background-color: white;
+    color: lightcoral;
+    border: 2px solid lightcoral;
+}
+    
+.button2 {
+    background-color: lightcoral; 
+    color: black; 
+    border: 2px solid pink;}
+
+.button2:hover {
+    background-color: white;
+    color: lightcoral;
+    border: 2px solid lightcoral;
+    }
+    
+    .button3 {
+    background-color: lightcoral; 
+    color: black; 
+        border: 2px solid pink;}
+
+.button3:hover {
+    background-color: white;
+    color: lightcoral;
+    border: 2px solid lightcoral;
+        }
+        
+        .button4 {
+    background-color: lightcoral; 
+    color: black; 
+            border: 2px solid pink;}
+
+.button4:hover {
+    background-color: white;
+    color: lightcoral;
+    border: 2px solid lightcoral;
+            }
+
+
+    body {background-image: url(foods.jpg); width=100%;
+        background-color: darkviolet; font-family: sans-serif; text-align: center; margin-left: 100px; margin-right: 100px}
+    h6 {font-size: 15px;color: black; background-color: white; font-family: serif; border: 2px solid lightcoral }
+    .head {color: black;}
+    #foot {text-align-last: center; color: black; font-family: serif}
+    h3 {background-color: white; color: lightcoral; font-family: serif; border: 2px solid lightcoral}
+    h2 {background-color: white; color: lightcoral; font-family: fantasy; border: 2px solid lightcoral}
+    h4 {background-color: white; color: black; font-family: serif; border: 2px solid lightcoral}
+    h5 {background-color: white; color: black; font-family: serif; border: 2px solid lightcoral}
+    p {font-family: serif; font-size: 16px; color: black; background-color: white; border: 2px solid lightcoral}
+ul {font-family: serif; font-size: 14px; color: black; background-color:white; text-align: left; font-weight: normal}
+ol {font-family: serif; font-size: 14px; color: black; background-color:white; text-align: left; font-weight: normal}
+#image {background-color: white; border: 2px solid lightcoral}
+#video {background-color: white; border: 2px solid lightcoral}
+#recipe1 {font-size: 32px}
+#recipe2 {font-size: 32px}
+#recipe3 {font-size: 32px}
